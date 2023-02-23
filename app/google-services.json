@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981760931377",
+    "project_id": "appdevkotlinsignup",
+    "storage_bucket": "appdevkotlinsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981760931377:android:f1032bd64f0bee45294710",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981760931377-p5cikpnn6f8qrludsk2gusqbpknq26hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7NF4A9uAJo0aPwZ2b-RPNP4wJBeaq-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981760931377-p5cikpnn6f8qrludsk2gusqbpknq26hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
